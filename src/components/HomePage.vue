@@ -43,7 +43,7 @@
         @click="clearData"
         class="font-bold px-4 rounded-full ring-1"
       >
-        Clear
+        Take
       </button>
     </div>
   </div>
